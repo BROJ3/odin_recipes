@@ -1,7 +1,12 @@
-.ja {
-    height: 300;
-    width: 300;
+body {
+    background-color: lightyellow;
 }
-. {
-    background: red;
+
+img {
+    height: 300px;
+}
+
+.home {
+    color: yellow;
+    background-color: black;
 }
